@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1729940950 source:c:\users\niggus\documents\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"keyConstants.h"
+	"base64.h"
+	"helper.h"
+	"io.h"
+	"SendMaiil.h"
+
+1729436723 c:\users\niggus\documents\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1729523530 c:\users\niggus\documents\keylogger\base64.h
+	<vector>
+	<string>
+
+1729437838 c:\users\niggus\documents\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1729524710 c:\users\niggus\documents\keylogger\io.h
+	<string>
+	<cstdlib>
+	"windows.h"
+	"helper.h"
+	"base64.h"
+
+1729940909 c:\users\niggus\documents\keylogger\sendmaiil.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"io.h"
+	"helper.h"
+
